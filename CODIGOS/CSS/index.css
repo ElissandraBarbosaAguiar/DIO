@@ -1,0 +1,29 @@
+/*@media(max-width:900px){
+    .home{
+        background-position-x:70vw;
+
+    }
+z-index{
+    background-color: #e1bafa02
+ }
+
+.home .header{
+    background-color: #e1bafa02;
+ }*/
+.post{
+    margin: 5px;
+    border-bottom: 2px;
+    border-bottom-left-radius: 3px;
+    min-width: 50%;
+    width: 75px;
+    right: 35%;
+    min-height: 50%;
+    height: 35%;
+    border-radius: 5px 5px 5px 5px;
+    position: inherit;
+
+}
+p{
+text-align: justify;
+
+}
