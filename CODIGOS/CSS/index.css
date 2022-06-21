@@ -7,25 +7,28 @@
     z-index: -1;
     background-color: #e1bafac0;
     position: absolute;
-    left: 0;
-    top: 0px;
+    left: 10px;
+    top: 10px;
+    right: 1%;
 }
 
 .home{
     background-color: #72f0b567;
-    position: absolute;
+    position:relative;
     left: 0;
-    top: 0px;
+    top: 5px;
+    padding-top: 25rem;
  }
 .post{
-    margin: 25px;
-    padding-top: 15px;
-    padding-right: 20px;
-    padding-bottom: 35px;
+    margin: 5px;
+    padding-top: 5px;
+    padding-right: 2px;
+    padding-bottom: 5px;
     border-bottom: 2px;
-    min-width: 50%;
-    width: 75px;
-    right: 35%;
+    min-width: 35%;
+    max-width: 100%;
+    width: 5px;
+    right: 5%;
     min-height: 50%;
     height: 50%;
     border-radius: none;
