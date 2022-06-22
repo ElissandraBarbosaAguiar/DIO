@@ -12,29 +12,25 @@
     right: 1%;
 }
 
+
 .home{
     background-color: #72f0b567;
     position:relative;
-    left: 0;
+    left: 1%;
     top: 5px;
     padding-top: 25rem;
+    margin-top: 1%;
+    margin-bottom: 50%;
  }
-.post{
-    margin: 5px;
-    padding-top: 5px;
-    padding-right: 2px;
-    padding-bottom: 5px;
-    border-bottom: 2px;
-    min-width: 35%;
+.imagem_central{
     max-width: 100%;
-    width: 5px;
-    right: 5%;
-    min-height: 50%;
-    height: 50%;
-    border-radius: none;
-    position: center;
-
+    position: relative;
+    margin-top: none;
+    margin-bottom: 15%;
+    
+    
 }
+
 p{
 text-align: justify;
 
